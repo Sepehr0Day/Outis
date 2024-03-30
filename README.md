@@ -10,7 +10,7 @@ The "Outis" is a command-line tool designed for encoding and decoding text using
 
 ## How to Use
 
-1. **Clone the Repository**: Clone this repository to your local machine.
+1. **Clone the Repository**: Clone this repository to your system and unzip Outis.zip.
 2. **Run the Program**: Execute the compiled executable file (`Outis.exe`).
 3. **Choose an Option**:
    - **Encode Text**: Input the text you want to encode. The program will generate an encoded version of the text and save the key file (`key.zero`) in the same directory.
