@@ -31,3 +31,5 @@ This program is developed by Sepehr0Day. You can explore more of my projects on 
 ## License
 
 This program is not open-source and is provided for secutiry/educational purposes only.
+
+*If you find this project useful, please consider starring the repository on GitHub⭐*
